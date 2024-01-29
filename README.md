@@ -1,6 +1,5 @@
 # transaction-tracker
-This repository has been moved to Mint Transaction:
-
+This repository was renamed:
 https://github.com/seanpolid/mint-transaction
 
 
